@@ -2,7 +2,12 @@
 
 A SPMI Lab toolkit for sequence tagging tasks based on Pytorch
 
-This toolkit includes the source code corresponding to ["Neural CRF transducers for sequence labeling"](http://arxiv.org/abs/1811.01382)
+This is the code we used in the following paper
+> [Neural CRF transducers for sequence labeling](http://arxiv.org/abs/1811.01382)
+
+> Kai Hu, Zhijian Ou, Min Hu, Junlan Feng
+
+> ICASSP 2019
 
 ## Quick Start
 
